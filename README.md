@@ -1,6 +1,5 @@
-# LearnBrython  
-git clone https://github.com/ryogrid/LearnBrython.git  
-cd LearnBrython  
+# How to use
+
 pip install flask  
 python app.py  
 => Let's access http://localhost:5000/# learn_Brython
